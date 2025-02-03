@@ -6,6 +6,8 @@
 
 THIS IS NOT MINE, IF YOU DONT TRUST THIS, GO VISIT Ssimco's REPOSITORY AT https://github.com/SSimco/Cemu
 
+**WHATS IS BELOW WAS COPIED FROM SSIMCO'S REPOSITORY, ALL OF WHATS BELOW IS NOT MINE**
+
 This is the code repository of Cemu, a Wii U emulator that is able to run most Wii U games and homebrew in a playable state.
 It's written in C/C++ and is being actively developed with new features and fixes.
 
